@@ -1,0 +1,36 @@
+{
+  "name": "John Doe",
+  "phone": "+91-9876543210",
+  "email": "john.doe@example.com",
+  "location": "Bangalore, India",
+  "current_position": "Senior Data Scientist",
+  "current_company": "ABC Corp",
+  "summary": "Senior Data Scientist with 8+ years of experience in building ML solutions.",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "SQL"
+  ],
+  "experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "ABC Corp",
+      "location": "Bangalore, India",
+      "start_date": "Jan 2022",
+      "end_date": "Present",
+      "description": [
+        "Leading a team of 4 data scientists to deliver end-to-end ML projects.",
+        "Designed and deployed predictive models improving conversion by 15%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "XYZ University",
+      "location": "Bangalore, India",
+      "year": "2018"
+    }
+  ]
+}
